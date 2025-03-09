@@ -1,0 +1,1 @@
+x = input("ads;fklj :")
